@@ -1,6 +1,6 @@
 local M = {}
 
-local c = require("config")
+local c = require("term-gf.config")
 
 function M.setup(user_config)
 	local keymaps = c.set(user_config).keymaps

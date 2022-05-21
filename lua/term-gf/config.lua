@@ -2,7 +2,7 @@ local M = {}
 
 local config = {
 	keymaps = {
-		goto_file = "CR",
+		goto_file = "<CR>",
 	},
 }
 
